@@ -1,3 +1,8 @@
+################
+# Last updated: 20250818
+# Intial Creation Date : 2025 08 18
+# Basic Guess The Number
+################
 import random
 
 mystery = random.randint(1,1000)
